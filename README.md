@@ -1,5 +1,6 @@
 <img alt="banner" width="100%" src="https://github.com/priyanshu-199/priyanshu-199/blob/main/Artificial%20Intelligence.gif?raw=true">
-<h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ED3EF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyanshu+Singh!;I'm+Computer+Science+%26+Engineering+Student;With+Specialization+In;Artificial+Intelligence+%26+Machine+Learning" alt="Typing SVG" /></a>
+<hr>
 <h3 align="center">AI & ML Engineer with a Passion for Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/priyanshu-199/priyanshu-199/blob/main/Coder.gif?raw=true">
 <p align="left"> <img
