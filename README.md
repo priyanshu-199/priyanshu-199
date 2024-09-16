@@ -1,9 +1,7 @@
-![MasterHead](/Users/priyanshusingh/Desktop/Artificial Intelligence.gif)]
-
+<img alt="banner" width="100%" src="https://github.com/priyanshu-199/priyanshu-199/blob/main/Artificial%20Intelligence.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
-![SecondHead](/Users/priyanshusingh/Desktop/Coder.gif)]
 <h3 align="center">AI & ML Engineer with a Passion for Innovation</h3>
-<img align="right" alt="Coding" width="400" src="n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/priyanshu-199/priyanshu-199/blob/main/Coder.gif?raw=true">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=priyanshu-199&label=Profile%20views&color=0e75b6&style=flat"
         alt="priyanshu-199" /> </p>
